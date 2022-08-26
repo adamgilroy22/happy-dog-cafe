@@ -9,4 +9,20 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
+    color: #242424;
+}
+
+/* Headings and Logo */
+
+h1, h2 {
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
+
 }
