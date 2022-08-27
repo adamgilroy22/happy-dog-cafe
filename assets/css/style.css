@@ -100,46 +100,54 @@ h1, h2 {
 
 /* Main page information section */
 #info-section {
-    width: 66%;
-    margin: auto;
     padding-top: 50px;
+}
 
+#info-section h1 {
+    font-size: 250%;
     text-align: center;
 }
 
-#info-section > h1 {
-    font-size: 250%;
-}
-
 #card {
-    width: 100%;
-    height: 450px;
-    background-color: rgb(87, 166, 168);
-    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    
+    background-color: #57a8a8;
+    height: auto;
+    width: 66%;
+    margin: auto;
+    border-radius: 20px;
 }
 
 #card-text {
+    flex: 1 1 0;
+    text-align: center;
+
+    padding-top: 20px;
+}
+
+#card-text h3 {
     font-size: 150%;
-    color: #fff;
-    text-align: left;
-    line-height: 35px;
-    
-    width: 40%;
-    height: 100%;
-    float: left;
-    margin-left: 10px;
-    margin-top: 10px;
+    padding-top: 10px;
+}
+
+#card-text p {
+    padding-top: 10px;
+    line-height: 20px;
+}
+
+#card-text p:last-of-type {
+    padding-bottom: 20px;
 }
 
 hr {
-    border-top: 1px solid #fff;
+    border-top: 1px solid #242424;
     width: 100%;
     margin: 5px 0;
 }
 
-#card-image img {
-    width: 59%;
-    height: 450px;
-    float: right;
-    border-radius: 0 20px 20px 0;
+#card-image {
+    flex: 1 1 auto;
+    border-radius: 0 20px 20px 0;;
+    background: url('../images/dog-cup.jpg') no-repeat center center;
 }
