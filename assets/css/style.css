@@ -173,3 +173,30 @@ hr {
     text-align: center;
     padding: 20px;
 }
+
+#testimonial-section div {
+    width: 25%;
+    
+    float: left;
+    
+    text-align: center;
+    
+    box-sizing: border-box;
+
+    color: #fff;
+    background-color: #57a8a8;
+}
+
+#testimonial-section h2 {
+    font-size: 200%;
+    padding: 10px;
+
+    color: #fff;
+    
+}
+
+#testimonial-section div img {
+    width: 100%;
+    height: 300px;
+    padding-top: 10px;
+}
