@@ -200,3 +200,38 @@ hr {
     height: 300px;
     padding-top: 10px;
 }
+
+.testimony-text {
+    height: auto;
+}
+
+.testimony-image {
+    padding-top: 10px;
+}
+
+/* Footer */
+
+footer {
+    padding-top: 10px;
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #242424;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 20px;
+}
