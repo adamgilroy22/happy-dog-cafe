@@ -137,6 +137,15 @@ h1, h2 {
     line-height: 20px;
 }
 
+#card-text a {
+    color: #242424;
+    text-decoration: none;
+}
+
+#card-text a:hover {
+    border-bottom: 1px solid #242424;
+}
+
 #card-text p:last-of-type {
     padding-bottom: 20px;
 }
@@ -151,4 +160,16 @@ hr {
     flex: 1 1 auto;
     border-radius: 0 20px 20px 0;;
     background: url('../images/dog-cup-card.jpg') no-repeat center center;
+}
+
+/* Testimonial Section */
+#testimonial-section {
+    padding-top: 30px;
+    width: 100%;
+}
+
+#testimonial-section h1 {
+    font-size: 250%;
+    text-align: center;
+    padding: 20px;
 }
