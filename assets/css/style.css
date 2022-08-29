@@ -89,7 +89,7 @@ h1, h2 {
     width: 225px;
     height: 225px;
 
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left: 10px;
 
     background-color: rgba(87, 166, 168, 0.65);
@@ -301,20 +301,22 @@ footer p {
 
 /* Timeline */
 
+/* Teal background to cover section after heading */
 #tl {
     width: 100%;
     background-color: #57a8a8;
 }
 
+/* Timeline middle line */
+
 .timeline {
     position: relative;
-    max-width: 60%;
+    max-width: 80%;
     margin: 0 auto;
 
     background-color: #57a8a8;
   }
-  
-  /* The actual timeline (the vertical ruler) */
+
   .timeline::after {
     content: '';
     position: absolute;
@@ -326,6 +328,8 @@ footer p {
     margin-left: -3px;
   }
 
+  /* Container for timeline text */
+
   .timeline-container {
     padding: 10px 40px;
     position: relative;
@@ -333,7 +337,7 @@ footer p {
     width: 50%;
   }
 
-  /* The circles on the timeline */
+  /* Timeline circles */
 .timeline-container::after {
     content: '';
     position: absolute;
@@ -357,7 +361,7 @@ footer p {
     left: 50%;
   }
   
-  /* Add arrows to the left container (pointing right) */
+  /* Add arrows to left container */
   .left::before {
     content: " ";
     height: 0;
@@ -371,7 +375,7 @@ footer p {
     border-color: transparent transparent transparent white;
   }
   
-  /* Add arrows to the right container (pointing left) */
+  /* Add arrows to right container */
   .right::before {
     content: " ";
     height: 0;
@@ -385,15 +389,17 @@ footer p {
     border-color: transparent white transparent transparent;
   }
   
-  /* Fix the circle for containers on the right side */
+  /* Set circle for containers on the right side */
   .right::after {
     left: -16px;
   }
   
-  /* The actual content */
+  /* Timeline text */
   .timeline-content {
     padding: 20px 30px;
     background-color: white;
     position: relative;
     border-radius: 6px;
+
+    font-size: 120%;
   }
