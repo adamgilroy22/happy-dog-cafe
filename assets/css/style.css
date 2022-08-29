@@ -103,7 +103,7 @@ h1, h2 {
     padding-top: 30px;
 }
 
-#info-section h1 {
+#info-section h2 {
     font-size: 250%;
     text-align: center;
     padding: 20px;
@@ -167,7 +167,7 @@ hr {
     width: 100%;
 }
 
-#testimonial-section h1 {
+#testimonial-section h2 {
     font-size: 250%;
     text-align: center;
     padding: 20px;
@@ -175,7 +175,6 @@ hr {
 
 .testimonial-box {
     width: 25%;
-    
     float: left;
     
     text-align: center;
