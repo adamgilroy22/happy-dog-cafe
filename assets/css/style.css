@@ -231,3 +231,64 @@ footer p {
     text-align: center;
     padding-bottom: 20px;
 }
+
+/* Meet the team section */
+
+#meet-the-team {
+    width: 90%;
+    margin: auto;
+
+    
+}
+
+#meet-the-team h2 {
+    font-size: 250%;
+    text-align: center;
+    padding: 20px;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+
+    box-sizing: border-box;
+
+  }
+
+  .team-card {
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .team-card h3 {
+    font-size: 200%;
+    font-family: 'Amatic SC', cursive;
+
+    text-align: center;
+  }
+
+  .team-card p {
+    font-size: 120%;
+    padding: 5px;
+  }
+
+  .team-card img {
+    width: 100%;
+  }
+
+  .container {
+    padding: 0 16px;
+    
+    content: contain;
+  }
+  
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .title {
+    color: grey;
+  }
