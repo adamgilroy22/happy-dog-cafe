@@ -111,7 +111,6 @@ h1, h2 {
 
 #card {
     display: flex;
-    flex-direction: row;
     
     background-color: #57a8a8;
     height: auto;
