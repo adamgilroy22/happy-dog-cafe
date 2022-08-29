@@ -235,10 +235,10 @@ footer p {
 /* Meet the team section */
 
 #meet-the-team {
-    width: 90%;
+    width: 85%;
     margin: auto;
 
-    
+    padding-top: 30px;
 }
 
 #meet-the-team h2 {
@@ -259,6 +259,7 @@ footer p {
 
   .team-card {
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+    height: auto;
   }
 
   .team-card h3 {
@@ -275,6 +276,7 @@ footer p {
 
   .team-card img {
     width: 100%;
+    content: contain;
   }
 
   .container {
@@ -282,13 +284,17 @@ footer p {
     
     content: contain;
   }
-  
-  .container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
+
+  /* Our Journey Section */
+
+  #journey {
+    width: 66%;
+    margin: auto;
+
+    padding-top: 30px;
   }
-  
-  .title {
-    color: grey;
-  }
+
+  #journey h2{
+    font-size: 250%;
+    text-align: center;
+}
