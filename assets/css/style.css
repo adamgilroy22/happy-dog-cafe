@@ -568,7 +568,7 @@ select option {
 }
 
 /* Media Queries */
-
+/* 960px wide and below */
 @media screen and (max-width: 960px) {
 
   /* Home Page */
@@ -602,4 +602,14 @@ select option {
   #meet-the-team {
     width: 100%;
   }
+}
+
+/* 850px wide and below */
+@media screen and (max-width: 850px){
+
+#logo {
+  width: 100%;
+  text-align: center;
+}
+
 }
