@@ -25,6 +25,53 @@
         </nav>
     </header>
 
+    <section id="outer-main">
+        <div id="main-image"></div>
+        <div id="main-image-text">
+            <h2>Happy Dog Café</h2>
+            <h3>Join Our Walk Club</h3>
+        </div>
+    </section>
+
+    <section id="walk-club-intro">
+        <h2>Happy Dog Café's Thrice Weekly Walk Club</h2>
+        <p>To celebrate our one year anniversary in July 2022, we set up our walking club. Every Monday, Wednesday and Saturday we all gather at the café, grab a brew to take with us and take our dogs for a walk to the nearby park. The walk is about 3km total and we have great fun doing them. Either Christine or Tom will join the group while the other stays in the café and the walks go ahead regardless of the weather. It's free to join unless you fancy taking a brew with you in which case walk club members get 50% off their drink on days that they walk with us. Fill out the form below and get involved!</p>
+    </section>
+
+    <section id="form-section">
+        <form class="signup-form" action="https://formdump.codeinstitute.net/" method="POST">
+            <h2>Join Our Walk Club! <i class="fa-solid fa-dog-leashed"></i></i></h2>
+            
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="full_name" required class="text-input">
+
+            <label for="numofdogs">How Many Dogs Will You Bring?</label>
+            <select name="numofdogs" id="numofdogs">
+                <option value="1">One</option>
+                <option value="2">Two</option>
+                <option value="3">Three</option>
+                <option value="4">Four</option>
+                <option value="5">Five</option>
+            </select>
+            
+            <label for="dname">Name Of Dog(s)</label>
+            <input type="text" id="dname" name="dogs_name" required class="text-input">
+            
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required class="text-input">
+            
+            <label>Is Your Dog(s) Up To Date With Their Shots?</label>
+            <label for="road">Yes </label>
+            <input type="radio" name="shot-status" id="yes" value="yes" required>
+            
+            <label for="trail">No </label>
+            <input type="radio" name="shot-status" id="no" value="no">
+            
+            <input type="submit" value="Walkies!" class="submit-button">
+            
+        </form>
+    </section>
+
     <footer>
         <ul class="social-networks">
             <li>

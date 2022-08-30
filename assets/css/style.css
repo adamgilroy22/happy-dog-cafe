@@ -94,7 +94,8 @@ h1, h2 {
 
     padding: 20px;
 
-    background-color: rgba(87, 166, 168, 0.65);
+    background-color: rgba(87, 166, 168, 0.7);
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 /* Main page information card */
