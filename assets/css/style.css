@@ -566,3 +566,40 @@ select option {
     background-color: #fff;
     color: #57a8a8;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 960px) {
+
+  /* Home Page */
+  #card {
+    flex-direction: column;
+    height: 800px;
+    width: 75%;
+  }
+  
+  #card-image {
+    border-radius: 0 0 20px 20px;
+  }
+
+  /* Menu Page */
+
+  #menu-section {
+    flex-direction: column;
+    width: 85%;
+  }
+
+  #menu {
+    width: 100%;
+  }
+
+  #menu-image {
+    width: 100%;
+  }
+  
+  /* About Us Page */
+
+  #meet-the-team {
+    width: 100%;
+  }
+}
