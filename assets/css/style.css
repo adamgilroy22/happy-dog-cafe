@@ -712,9 +712,13 @@ select option {
     }
   }
 
-  @media screen and (max-width: 430px){
+  @media screen and (max-width: 440px){
     #nav-menu {
       letter-spacing: 1px;
+    }
+
+    #main-image-text {
+      font-size: 150%;
     }
 
   }
