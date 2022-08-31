@@ -94,7 +94,7 @@ h1, h2 {
 
     padding: 20px;
 
-    background-color: rgba(87, 166, 168, 0.7);
+    background-color: rgba(60, 114, 114, 0.7);
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -112,7 +112,7 @@ h1, h2 {
 #card {
     display: flex;
     
-    background-color: #57a8a8;
+    background-color: #3c7272;
     height: auto;
     width: 66%;
     margin: auto;
@@ -133,15 +133,18 @@ h1, h2 {
     font-family: 'Amatic SC', cursive;
     font-size: 225%;
     padding-top: 10px;
+
+    color: #fafafa;
 }
 
 #card-text p {
     padding-top: 10px;
     line-height: 20px;
+    color: #fafafa;
 }
 
 #card-text a {
-    color: #242424;
+    color: #fafafa;
     text-decoration: none;
 }
 
@@ -154,7 +157,7 @@ h1, h2 {
 }
 
 hr {
-    border-top: 2px solid #242424;
+    border-top: 2px solid #fafafa;
     width: 75%;
     margin: auto;
 }
@@ -183,15 +186,15 @@ hr {
     
     text-align: center;
 
-    color: #fff;
-    background-color: #57a8a8;
+    color: #fafafa;
+    background-color: #3c7272;
 }
 
 .testimonial-box h2 {
     font-size: 200%;
     padding: 10px;
 
-    color: #fff;
+    color: #fafafa;
     
 }
 
@@ -306,7 +309,7 @@ footer p {
 /* Teal background to cover section after heading */
 #tl {
     width: 100%;
-    background-color: #57a8a8;
+    background-color: #3c7272;
 }
 
 /* Timeline middle line */
@@ -316,7 +319,7 @@ footer p {
     max-width: 80%;
     margin: 0 auto;
 
-    background-color: #57a8a8;
+    background-color: #3c7272;
   }
 
   .timeline::after {
@@ -440,7 +443,7 @@ footer p {
   #menu {
     width: 40%;
     margin: auto;
-    background-color: #57a8a8;
+    background-color: #3c7272;
     padding: 20px;
     text-align: center;
 
@@ -450,15 +453,13 @@ footer p {
   #menu h1 {
     font-size: 50px;
     padding: 10px;
+    color: #fafafa;
   }
 
   #menu h2 {
     font-size: 30px;
     padding: 5px;
-  }
-
-  .item {
-    font-size: 20px;
+    color: #fafafa;
   }
 
   .item, .price {
@@ -466,6 +467,8 @@ footer p {
     margin-top: 5px;
     margin-bottom: 5px;
     width: 75%;
+    font-size: 20px;
+    color: #fafafa;
   }
 
   #menu-image {
@@ -502,7 +505,7 @@ footer p {
   /* Signup Form */
   #form-section {
     margin: auto;
-    background-color: #57a8a8;
+    background-color: #3c7272;
     padding: 50px;
 }
 
@@ -557,7 +560,7 @@ select option {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #57a8a8;
+    background-color: #3c7272;
     color: #fff;
     display: block;
 }
