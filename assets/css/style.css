@@ -210,7 +210,6 @@ hr {
   font-size: 120%;
   padding-bottom: 15px;
   text-align: center;
-  content: contain;
 }
 
 .testimonial-box img {
@@ -220,8 +219,6 @@ hr {
 
 .container {
   padding: 0 16px;
-  
-  content: contain;
 }
 
 /* Footer */
@@ -294,13 +291,10 @@ footer p {
 
   .team-card img {
     width: 100%;
-    content: contain;
   }
 
   .container {
     padding: 0 16px;
-    
-    content: contain;
   }
 
   /* Our Journey Section */
@@ -464,13 +458,13 @@ footer p {
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
   }
 
-  #menu h1 {
+  #menu h2 {
     font-size: 50px;
     padding: 10px;
     color: #fafafa;
   }
 
-  #menu h2 {
+  #menu h3 {
     font-size: 30px;
     padding: 5px;
     color: #fafafa;
