@@ -170,44 +170,59 @@ hr {
 
 /* Testimonial Section */
 #testimonial-section {
-    padding-top: 30px;
-    width: 100%;
+  width: 100%;
+  height: auto;
+  margin: auto;
+
+  padding-top: 30px;
+  overflow: auto;
 }
 
 #testimonial-section h2 {
-    font-size: 250%;
-    text-align: center;
-    padding: 20px;
+  font-size: 250%;
+  text-align: center;
+  padding: 20px;
+}
+
+.testimonial-column {
+  float: left;
+  width: 25%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+
+  background-color: #3c7272;
+
 }
 
 .testimonial-box {
-    width: 25%;
-    float: left;
-    
-    text-align: center;
-
-    color: #fafafa;
-    background-color: #3c7272;
+  height: auto;
+  padding: 10px;
+  color: #fafafa;
 }
 
 .testimonial-box h2 {
-    font-size: 200%;
-    padding: 10px;
+  font-size: 200%;
+  font-family: 'Amatic SC', cursive;
+  color: #fafafa;
+  text-align: center;
+}
 
-    color: #fafafa;
-    
+.testimonial-box p {
+  font-size: 120%;
+  padding-bottom: 15px;
+  text-align: center;
+  content: contain;
 }
 
 .testimonial-box img {
-    width: 100%;
-    height: auto;
-    max-height: 300px;
-    padding-top: 10px;
+  width: 100%;
+  margin: auto;
 }
 
-.testimony-text {
-    height: 60px;
-    padding: 20px 5px 15px 5px;
+.container {
+  padding: 0 16px;
+  
+  content: contain;
 }
 
 /* Footer */
@@ -253,7 +268,7 @@ footer p {
     padding: 20px;
 }
 
-.column {
+.team-column {
     float: left;
     width: 33%;
     margin-bottom: 16px;
@@ -585,6 +600,13 @@ select option {
     border-radius: 0 0 20px 20px;
   }
 
+  /* Testimonial Section */
+  .testimonial-column {
+    width: 50%;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
   /* Menu Page */
 
   #menu-section {
@@ -609,10 +631,5 @@ select option {
 
 /* 850px wide and below */
 @media screen and (max-width: 850px){
-
-#logo {
-  width: 100%;
-  text-align: center;
-}
 
 }
