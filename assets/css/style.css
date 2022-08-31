@@ -626,10 +626,17 @@ select option {
   #meet-the-team {
     width: 100%;
   }
+
+  /* Walk club intro section */
+  #walk-club-intro {
+    width: 85%;
+  }
 }
 
 /* 830px wide and below */
 @media screen and (max-width: 830px){
+
+/* Logo and nav menu */
 
   #logo {
     font-size: 200%;
@@ -637,5 +644,29 @@ select option {
 
   #nav-menu {
     font-size: 120%;
+  }
+}
+
+/* 730px wide and below */
+@media screen and (max-width: 730px){
+  
+  /* Nav menu items */
+  #nav-menu li {
+    margin-right: 15px;
+  }
+
+  /* Main image text */
+  #main-image-text {
+    font-size: 200%;
+  }
+
+  /* Meet the team */
+
+  #meet-the-team {
+    width: 100%;
+  }
+  .team-column {
+    width: 100%;
+    display: block;
   }
 }
