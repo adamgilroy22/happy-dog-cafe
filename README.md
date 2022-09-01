@@ -1,27 +1,27 @@
-# Happy Dog Café - Portfolio Project 1
+# __Happy Dog Café - Portfolio Project 1__
 
 
 
-## Features 
+## __Features__ 
 
-### Existing Features
+### __Existing Features__
 
-### Common Elements
+### __Common Elements__
 
 These elements appear across every page of the website as the user navigates it.
 
 - __Logo and Navigation Bar__
-    - The logo and navigation bar appears on every page of the website. Both of these have been adapted to work on various screen sizes. The logo has a link to the homepage embedded and each of the links on the navigation menu brings the user to the correct page
+    - The logo and navigation bar appears on every page of the website. Both of these have been adapted to work on various screen sizes. The logo has a link to the homepage embedded and each of the links on the navigation menu brings the user to the correct page.
 
 - __The main image__
-    - The main image appears across the site too with the text inside the box displaying what page the user is on to further allow for easy access. This image along with the text box are fully responsive and will resize in accordance with the size of the screen that the user is viewing the website on.
+    - The main image appears across the site with the text inside the box displaying what page the user is on to further allow for easy access. This image along with the text box are fully responsive and will resize in accordance with the size of the screen that the user is viewing the website on.
 
 - __The Footer__
-    - The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to stay up to date with the café on these platforms
+    - The footer displays across every page of the site and displays social media icons with links to the corresponding social media website to allow the user to stay up to date with the café on these platforms.
 
-### Homepage
+### __Homepage__
 
-This is the landing page that the user will be brought to when first entering the site
+This is the landing page that the user will be brought to when first entering the site.
 
 - __Information Card__
     - This card displays the café opening times, address, and contact information. The phone number and email address are both clickable to allow the user to either phone or email the café straight from the home page. The right-hand side of the card contains an image of a coffee cup with a dog on it to stick with the theme of the site. the card is adapted for smaller screens with the image appearing below the text on smaller devices.
@@ -29,9 +29,9 @@ This is the landing page that the user will be brought to when first entering th
 - __Testimonials__
     - This section displays customer reviews, this is particularly useful for new users checking out the site who haven't visited the café before. This section is responsive with all 4 testimonials appearing on the same line on large screens, 2 across 2 lines on medium screens and individually on 4 lines for small screens.
 
-### Menu Page
+### __Menu Page__
 
-This is where a user can find the café's menu along with prices
+This is where a user can find the café's menu along with prices.
 
 - __Café Menu__
     - The menu shows the items on sale in the café along with each item's price. The menu is split into 4 sections covering hot drinks, cold drinks, food and items for your dog.
@@ -39,26 +39,32 @@ This is where a user can find the café's menu along with prices
 - __Menu Image__
     - Next to the café menu is an image of two people sat drinking coffee with their dog. This is responsive as on smaller screens the image appears below the menu so as that the menu doesn't appear too small to read.
 
-### About Us
+### __About Us__
+
+This page allows the user to get a look into the background of the café and its owners. It adds a personal feel to the site.
 
 - __Meet the team__
+    - This section shows an image and short bio about the two café owners and their dog. It contains three cards across on large screens and reduces to single images on smaller screens so it remains easy to read on small devices.
 
 - __Our Journey Timeline__
+    - The timeline gives users an even deeper look into the background of the café and tells the story of how the owners set up the business. The timeline boxes appear on alternating sides of the screen on large devices and in a line on the same side of the timeline bar on smaller screens to make it easily readable.
 
 - __Embedded Video__
+    - A video showing the coffee making process to further entice website visitors to come to the café. The video stretches across the page in a 16:9 format regardless of screen size and automatically adapts as the screen size is reduced keeping it's aspect ratio.
 
-### Walk Club
-
+### __Walk Club__
+This page allows users to see information and sign up for the café's thrice weekly walking club.
 - __Walk Club Introductory Section__
-
+    - The user is introduced to the walk club, it informs the user of days and times of the walks, distance and lets them know of a 50% discount on their drink if they partake in the club. This section covers 66% of the screen width on large screens but expands on smaller screens to remain looking good for the user.
 - __Walk Club Signup Form__
+    - The signup form lets the user join the club. They must enter their own name, number of dogs they plan on bringing, their dogs name(s), their email address and whether their dog is up to dates on their vaccine shots. There is a button for the user to submit the details. The form is fully responsive to look good on all screen sizes.
 
-### Features Left to Implement
+### __Features Left to Implement__
 
 - __Interactive Café Menu__
-    - I would like to have made the café menu interactive using animations
+    - I plan to make the café menu interactive using css animations.
 
-## Testing 
+## __Testing__ 
 
 
 ### Validator Testing 
@@ -68,14 +74,14 @@ This is where a user can find the café's menu along with prices
 - __CSS__
     - No errors were returned through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-adamgilroy2-happydogcaf-zl223dyr9uw.ws-eu63.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-### Unfixed Bugs
+### __Unfixed Bugs__
 
-## Deployment
+## __Deployment__
 
 
-## Credits
+## __Credits__
 
-### Code
+### __Code__
 
 - Code for the main image was inspired from Code Institute's Love Running walkthrough project with some tweaks to fit this website.
 
@@ -83,14 +89,16 @@ This is where a user can find the café's menu along with prices
 
 - The timeline on the about us page was taken and modified from W3 Schools at: [https://www.w3schools.com/howto/howto_css_timeline.asp]
 
-### Content
+### __Content__
+
+- All website text content was created and written by me
 
 - The two fonts used across the site, Amatic SC for headings and the logo and Josefin Sans for the content were imported from [Google Fonts](https://fonts.google.com/)
 
-### Design
+### __Design__
 
 - Colours were chosen and checked for readability through [https://webaim.org/resources/contrastchecker/]
 
-### Media
+### __Media__
 
 - All photos used on throughout the site are from [Unsplash.com](https://unsplash.com/)
