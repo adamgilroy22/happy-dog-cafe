@@ -6,11 +6,9 @@ The aim of the project is to build an easily navigatable, responsive website usi
 [Live link to website](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
 
 
-
+![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/about-us-page.png)
 
 ## __Features__ 
-
-### __Existing Features__
 
 ### __Common Elements__
 
@@ -18,6 +16,9 @@ These elements appear across every page of the website as the user navigates it.
 
 - __Logo and Navigation Bar__
     - The logo and navigation bar appears on every page of the website. Both of these have been adapted to work on various screen sizes. The logo has a link to the homepage embedded and each of the links on the navigation menu brings the user to the correct page.
+
+- __Favicon__
+    - The favicon on the browser tab encapsulates the branding of the café
 
 - __The main image__
     - The main image appears across the site with the text inside the box displaying what page the user is on to further allow for easy access. This image along with the text box are fully responsive and will resize in accordance with the size of the screen that the user is viewing the website on.
@@ -68,7 +69,7 @@ This page allows users to see information and sign up for the café's thrice wee
 ### __Features Left to Implement__
 
 - __Interactive Café Menu__
-    - I plan to make the café menu interactive using css animations.
+    - I plan to make the café menu interactive using CSS animations.
 
 ## __Testing__ 
 
