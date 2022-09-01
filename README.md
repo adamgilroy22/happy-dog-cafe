@@ -6,7 +6,7 @@ The aim of the project is to build an easily navigatable, responsive website usi
 [Live link to website](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
 
 
-![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/about-us-page.png)
+![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/mockup.png)
 
 ## __Features__ 
 
