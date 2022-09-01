@@ -148,7 +148,7 @@ h1, h2 {
 }
 
 #card-text a:hover {
-    border-bottom: 1px solid #242424;
+    border-bottom: 1px solid #fafafa;
 }
 
 #card-text p:last-of-type {
