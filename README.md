@@ -124,10 +124,11 @@ This page allows users to see information and sign up for the café's thrice wee
 ## __Deployment__
 
 The site was deployed using Github pages. The steps to deploy were as follows:
-    - From the Github repository, navigate to the settings tab.
-    - On the menu on the left hand side, click on pages under code and automation.
-    - Under Branch, click the dropdown and select the main branch.
-    - Click save and refresh the page after a while to see the link to the deployed site.
+
+- From the Github repository, navigate to the settings tab.
+- On the menu on the left hand side, click on pages under code and automation.
+- Under Branch, click the dropdown and select the main branch.
+- Click save and refresh the page after a while to see the link to the deployed site.
 
 The live link can be found [here](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
 
