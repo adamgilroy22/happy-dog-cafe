@@ -109,6 +109,17 @@ This page allows users to see information and sign up for the café's thrice wee
 - __Interactive Café Menu__
     - I plan to make the café menu interactive using CSS animations.
 
+
+### __Technologies Used___
+The following is a list of the technologies I used on this project
+- HTML5
+- CSS3
+- Font Awesome
+- Google Fonts
+- Github
+- Gitpod
+- Canva
+
 ## __Testing__ 
 
 
