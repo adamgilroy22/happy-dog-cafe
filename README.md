@@ -144,8 +144,6 @@ The website was tested for performance using the Lighthouse feature in Google Ch
 
 ![Lighthouse Report](https://github.com/adamgilroy22/happy-dog-cafe/blob/c8687c647ade05b497a1563a77357e69c2d33322/assets/images/readme-images/lighthouse-report.png)
 
-### __Unfixed Bugs__
-
 ## __Deployment__
 
 The site was deployed using Github pages. The steps to deploy were as follows:
