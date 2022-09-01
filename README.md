@@ -123,7 +123,7 @@ This page allows users to see information and sign up for the café's thrice wee
 
 The website was tested for performance using the Lighthouse feature in Google Chrome's Developer Tools. I was very satisfied with the results.
 
-![Lighthouse Report]()
+![Lighthouse Report](https://github.com/adamgilroy22/happy-dog-cafe/blob/c8687c647ade05b497a1563a77357e69c2d33322/assets/images/readme-images/lighthouse-report.png)
 
 ### __Unfixed Bugs__
 
