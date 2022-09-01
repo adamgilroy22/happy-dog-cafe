@@ -1,4 +1,10 @@
 # __Happy Dog Café - Portfolio Project 1__
+This is the website for Happy Dog Café, a small independently owned dog-friendly café in Cork city. The website serves as a point for both new and existing users to find out information such as café opening times, menu, history behind the café and its owners and allows them to sign up for the café's walking club through a form on the site.
+
+The aim of the project is to build an easily navigatable, responsive website using HTML and CSS.
+
+[Live link to website](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
+
 
 
 
