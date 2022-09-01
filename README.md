@@ -102,3 +102,5 @@ This page allows users to see information and sign up for the café's thrice wee
 ### __Media__
 
 - All photos used on throughout the site are from [Unsplash.com](https://unsplash.com/)
+
+- Favicon was designed by me with [Canva](https://www.canva.com/)
