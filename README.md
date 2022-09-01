@@ -119,6 +119,12 @@ This page allows users to see information and sign up for the café's thrice wee
 - __CSS__
     - No errors were returned through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-adamgilroy2-happydogcaf-zl223dyr9uw.ws-eu63.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+### Performance Testing
+
+The website was tested for performance using the Lighthouse feature in Google Chrome's Developer Tools. I was very satisfied with the results.
+
+![Lighthouse Report]()
+
 ### __Unfixed Bugs__
 
 ## __Deployment__
