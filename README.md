@@ -134,9 +134,9 @@ I have tested the site on multiple devices such as my desktop monitor, Dell 2-in
 ### Validator Testing 
 
 - __HTML__
-    - No errors were returned after passing through the official [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-adamgilroy2-happydogcaf-zl223dyr9uw.ws-eu63.gitpod.io%2Findex.html)
+    - No errors were returned after passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamgilroy22.github.io%2Fhappy-dog-cafe%2Findex.html)
 - __CSS__
-    - No errors were returned through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-adamgilroy2-happydogcaf-zl223dyr9uw.ws-eu63.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    - No errors were returned through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadamgilroy22.github.io%2Fhappy-dog-cafe%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Performance Testing
 
