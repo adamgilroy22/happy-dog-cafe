@@ -24,7 +24,7 @@ These elements appear across every page of the website as the user navigates it.
 
     ![Favicon](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/favicon/favicon.png)
 
-- __The main image__
+- __The Main Image__
     - The main image appears across the site with the text inside the box displaying what page the user is on to further allow for easy access. This image along with the text box are fully responsive and will resize in accordance with the size of the screen that the user is viewing the website on.
 
     ![Main image](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/main-hero-image.png)
@@ -163,7 +163,7 @@ The live link can be found [here](https://adamgilroy22.github.io/happy-dog-cafe/
 
 - The footer code was also taken from the previously mentioned walkthrough project
 
-- The timeline on the about us page was taken and modified from W3 Schools at: [https://www.w3schools.com/howto/howto_css_timeline.asp]
+- The timeline on the about us page was taken and modified from [W3 Schools](https://www.w3schools.com/howto/howto_css_timeline.asp)
 
 ### __Content__
 
@@ -173,7 +173,7 @@ The live link can be found [here](https://adamgilroy22.github.io/happy-dog-cafe/
 
 ### __Design__
 
-- Colours were chosen and checked for readability through [https://webaim.org/resources/contrastchecker/]
+- Colours were chosen and checked for readability through [Webaim](https://webaim.org/resources/contrastchecker/)
 
 ### __Media__
 
