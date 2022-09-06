@@ -21,6 +21,8 @@ I have tested the site on multiple devices such as my desktop monitor, Dell 2-in
 
 - Dell Laptop
 
+![Laptop Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/laptop-test.png)
+
 - OnePlus 8t Smartphone
 
 ![Android Test 1](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/android-test-1.jpg)
