@@ -3,7 +3,7 @@ This is the website for Happy Dog Café, a small independently owned dog-friendl
 
 The aim of the project is to build an easily navigatable, responsive website using HTML and CSS.
 
-<a href="https://adamgilroy22.github.io/happy-dog-cafe/index.html" target="_blank">Live link to website</a>
+[Live link to website](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
 
 
 ![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/mockup.png)
