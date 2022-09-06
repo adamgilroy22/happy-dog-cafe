@@ -4,8 +4,22 @@ After the site was deployed, I sent the link to family and friends to test it an
 ### Cross-browser Testing
 After publishing the site through Github pages, I have tested it on Chrome, Firefox and Edge. The site has loaded perfectly and had no issues across all browsers.
 
+- Chrome
+
+- Firefox
+
+- Edge
+
 ### Compatability and Responsiveness Testing
-I have tested the site on multiple devices such as my desktop monitor, Dell 2-in-1 16" laptop, OnePlus 8t Android smartphone, Apple iPhone 13 and Apple iPad. The site loaded and ran smoothly on all devices and content adjusted as expected for each screen size.
+I have tested the site on multiple devices such as my desktop monitor, Dell 2-in-1 16" laptop, OnePlus 8t Android smartphone, Apple iPhone and Apple iPad. The site loaded and ran smoothly on all devices and content adjusted as expected for each screen size.
+
+- Dell Laptop
+
+- OnePlus 8t Smartphone
+
+- Apple iPhone
+
+- Apple iPad
 
 ### Validator Testing 
 
