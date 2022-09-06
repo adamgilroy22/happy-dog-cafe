@@ -144,16 +144,24 @@ The website was tested for performance using the Lighthouse feature in Google Ch
 
 ![Lighthouse Report](https://github.com/adamgilroy22/happy-dog-cafe/blob/c8687c647ade05b497a1563a77357e69c2d33322/assets/images/readme-images/lighthouse-report.png)
 
-## __Deployment__
+## Deployment
 
-The site was deployed using Github pages. The steps to deploy were as follows:
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/adamgilroy22/happy-dog-cafe), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-- From the Github repository, navigate to the settings tab.
-- On the menu on the left hand side, click on pages under code and automation.
-- Under Branch, click the dropdown and select the main branch.
-- Click save and refresh the page after a while to see the link to the deployed site.
+The live link can be found [here](https://adamgilroy22.github.io/happy-dog-cafe)
 
-The live link can be found [here](https://adamgilroy22.github.io/happy-dog-cafe/index.html)
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/adamgilroy22/happy-dog-cafe.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/adamgilroy22/happy-dog-cafe)
 
 ## __Credits__
 
