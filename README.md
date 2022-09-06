@@ -8,6 +8,25 @@ The aim of the project is to build an easily navigatable, responsive website usi
 
 ![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/assets/images/readme-images/mockup.png)
 
+## __Wireframes__
+Before writing any HTML or CSS, I used Balsamiq to create wireframes for each of the 4 pages on the site.
+
+- Home
+
+![Homepage wireframe](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/wireframes/homepage-wireframe.png)
+
+- Menu
+
+![Menu wireframe](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/wireframes/menu-wireframe.png)
+
+- About Us
+
+![About us wireframe](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/wireframes/about-us-wireframe.png)
+
+- Walk Club
+
+![Walk club wireframe](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/wireframes/walk-club-wireframe.png)
+
 ## __Features__ 
 
 ### __Common Elements__
@@ -119,6 +138,7 @@ The following is a list of the technologies I used on this project
 - Github
 - Gitpod
 - Canva
+- Balsamiq
 
 ## __Testing__ 
 
@@ -161,6 +181,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### __Design__
 
+- Wireframes were made using [Balsamiq](https://balsamiq.com/)
 - Colours were chosen and checked for readability through [Webaim](https://webaim.org/resources/contrastchecker/)
 
 ### __Media__
