@@ -6,9 +6,15 @@ After publishing the site through Github pages, I have tested it on Chrome, Fire
 
 - Chrome
 
+![Chrome Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/chrome.png)
+
 - Firefox
 
+![Firefox Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/firefox.png)
+
 - Edge
+
+![Edge Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/edge.png)
 
 ### Compatability and Responsiveness Testing
 I have tested the site on multiple devices such as my desktop monitor, Dell 2-in-1 16" laptop, OnePlus 8t Android smartphone, Apple iPhone and Apple iPad. The site loaded and ran smoothly on all devices and content adjusted as expected for each screen size.
@@ -17,9 +23,21 @@ I have tested the site on multiple devices such as my desktop monitor, Dell 2-in
 
 - OnePlus 8t Smartphone
 
+![Android Test 1](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/android-test-1.jpg)
+
+![Android Test 2](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/android-test-2.jpg)
+
+![Android Test 3](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/android-test-3.jpg)
+
+![Android Test 4](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/android-test-4.jpg)
+
 - Apple iPhone
 
+![iPhone Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/iphone-test.jpg)
+
 - Apple iPad
+
+![iPad Test](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/ipad-test.png)
 
 ### Validator Testing 
 
