@@ -48,14 +48,19 @@ I have tested the site on multiple devices such as my desktop monitor, Dell 2-in
     ![Full Site Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/site-validation.png)
 
     - [Homepage](https://validator.w3.org/nu/?doc=https://adamgilroy22.github.io/happy-dog-cafe/index.html)
+    ![Homepage Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/home-validation.png)
 
     - [Menu Page](https://validator.w3.org/nu/?doc=https://adamgilroy22.github.io/happy-dog-cafe/menu.html)
+    ![Menu Page Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/cafe-menu-validation.png)
 
     - [About Us Page](https://validator.w3.org/nu/?doc=https://adamgilroy22.github.io/happy-dog-cafe/about-us.html)
+    ![Abour Us Page Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/about-us-validation.png)
 
     - [Walk Club Page](https://validator.w3.org/nu/?doc=https://adamgilroy22.github.io/happy-dog-cafe/walk-club.html)
+    ![Walk Club Page Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/walk-club-validation.png)
 
     - [Form Confirmation Page](https://validator.w3.org/nu/?doc=https://adamgilroy22.github.io/happy-dog-cafe/walk-club.html)
+    ![Confirmation Page Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/confirmation-validation.png)
 
 - __CSS__
     - No errors were returned through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamgilroy22.github.io%2Fhappy-dog-cafe)
