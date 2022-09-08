@@ -136,16 +136,25 @@ This page allows users to see information and sign up for the café's thrice wee
 
 
 ### __Technologies Used__
-The following is a list of the technologies I used on this project
-- HTML5
-- CSS3
-- Font Awesome
-- Google Fonts
-- Github
-- Gitpod
-- Git
-- Canva
-- Balsamiq
+The following is a list of the technologies I used on this project.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - HTML5 was used to create the structure of the site.
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+    - CSS3 was used to add styling to the site.
+- [Font Awesome](https://fontawesome.com/)
+    - Font Awesome was used to import icons used across the site.
+- [Google Fonts](https://fonts.google.com/)
+    - Google Fonts was used to import the Amatic SC and Josefin Sans fonts for use on styles.css.
+- [Github](https://github.com/)
+    - Github was used to store the project's code after being pushed from Git.
+- [Gitpod](https://gitpod.io/)
+    - Gitpod terminal was used to commit my code using Git and push it to Github.
+- [Git](https://git-scm.com/)
+    - Git was used for version control through the Gitpod terminal.
+- [Canva](https://www.canva.com/)
+    - Canva was used to design the favicon.
+- [Balsamiq](https://balsamiq.com/)
+    - Balsamiq was used to design the wireframes for the project.
 
 ## __Testing__ 
 
