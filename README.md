@@ -183,7 +183,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### __Code__
 
-- Code for the main image was inspired from Code Institute's Love Running walkthrough project with some tweaks to fit this website.
+- Code for the main image was inspired from [Code Institute's](https://codeinstitute.net/) Love Running walkthrough project with some tweaks to fit this website.
 
 - The footer code was also taken from the previously mentioned walkthrough project
 
