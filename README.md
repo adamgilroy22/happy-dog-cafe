@@ -210,6 +210,6 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### __Media__
 
-- All photos used on throughout the site are from [Unsplash.com](https://unsplash.com/)
-
 - Favicon was designed by me with [Canva](https://www.canva.com/)
+
+- All photos used on throughout the site are from [Unsplash.com](https://unsplash.com/)
