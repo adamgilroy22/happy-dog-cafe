@@ -10,6 +10,19 @@ The aim of the project is to build an easily navigatable, responsive website usi
 
 ## __UX & Design__
 
+## __User Stories__
+- As a user, I want to be able to view the café opening times, location, and contact details
+
+- As a user, I want to be able to see testimonials from café customers
+
+- As a user, I want to be able to see how to follow the café on social media
+
+- As a user, I want to be able to view the café menu
+
+- As a user, I want to be able to see a section about the café owners
+
+- As a user I want to be able to sign up for the café's walk club
+
 ### __Wireframes__
 Before writing any HTML or CSS, I used Balsamiq to create wireframes for each of the 4 pages on the site.
 
@@ -212,4 +225,4 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 - Favicon was designed by me with [Canva](https://www.canva.com/)
 
-- All photos used on throughout the site are from [Unsplash.com](https://unsplash.com/)
+- All photos used on throughout the site are from and used under the [Unsplash.com](https://unsplash.com/) license
