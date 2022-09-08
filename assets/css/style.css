@@ -249,6 +249,11 @@ footer p {
     padding-bottom: 20px;
 }
 
+footer a {
+  color:#3c7272;
+  text-decoration: none;
+}
+
 /* Meet the team section */
 
 #meet-the-team {
