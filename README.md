@@ -10,7 +10,7 @@ The aim of the project is to build an easily navigatable, responsive website usi
 
 ## __UX & Design__
 
-## __User Stories__
+### __User Stories__
 - As a user, I want to be able to view the café opening times, location, and contact details
 
 - As a user, I want to be able to see testimonials from café customers
