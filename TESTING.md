@@ -47,6 +47,7 @@ I have tested the site on multiple devices such as my desktop monitor, Dell 2-in
     - No errors were returned after passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamgilroy22.github.io%2Fhappy-dog-cafe%2Findex.html)
 - __CSS__
     - No errors were returned through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamgilroy22.github.io%2Fhappy-dog-cafe)
+    
     ![CSS Validation](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/css-validation.png)
 
 ### Performance Testing
