@@ -30,8 +30,16 @@ Before writing any HTML or CSS, I used Balsamiq to create wireframes for each of
 ![Walk club wireframe](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/wireframes/walk-club-wireframe.png)
 
 ### __Colour Scheme__
+I used [Coolors.co](https://coolors.co/3c7272-242424-ffffff-ff9f55) to choose a colour scheme that would be easily readable and visually appealing to users.
+
+![Colour Scheme](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/colour-scheme.png)
 
 ### __Typography__
+I used [Google Fonts](https://fonts.google.com/) to select and import the fonts Amatic SC for main headers and the logo and Josefin Sans for body text.
+
+![Amatic SC](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/amatic-sc.png)
+
+![Josefin Sans](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/josefin-sans.png)
 
 ## __Features__ 
 
