@@ -8,6 +8,8 @@ The aim of the project is to build an easily navigatable, responsive website usi
 
 ![Website mockup](https://github.com/adamgilroy22/happy-dog-cafe/blob/main/documentation/testing/mockup.png)
 
+Final Grade: Distinction
+
 ## __UX & Design__
 
 ### __User Stories__
